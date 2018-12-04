@@ -1,3 +1,6 @@
+MY CHANGES
+
+
 # Important update: August 31, 2018
 
 On August 31, 2018, this `kie-docs` repository that contains KIE community and Red Hat Business Automation documentation was updated to enable shared content between KIE community and Red Hat Business Automation enterprise documentation, to remove obsolete content, and to prepare for an improved content building tool coming soon (Aura).
